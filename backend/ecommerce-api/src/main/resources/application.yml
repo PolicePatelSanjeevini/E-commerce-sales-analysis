@@ -24,7 +24,7 @@ spring:
 
 app:
   cors:
-    allowed-origins: ${ALLOWED_ORIGINS:http://localhost:3000,http://localhost:5173,https://ecommerce-sales-dashboard.vercel.app}
+    allowed-origins: ${ALLOWED_ORIGINS:http://localhost:3000,http://localhost:5173,https://e-commerce-sales-analysis-dny9.vercel.app,https://ecommerce-sales-dashboard.vercel.app}
 
 logging:
   level:
